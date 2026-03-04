@@ -193,7 +193,6 @@ public void check_2_to_2() {
 
 
 ```
-
-
+![Captura de pantalla 2026-03-04 094916.png](src/Captura%20de%20pantalla%202026-03-04%20094916.png)
 
 ```
